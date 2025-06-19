@@ -3,5 +3,45 @@
         "name": "Poor Bunny",
         "slug": "poor-bunny",
         "image": "/cache/data/image/game/poor-bunny/poor-bunny-m186x186.webp"
+    },
+    {
+        "name": "Yeah Bunny!",
+        "slug": "yeah-bunny",
+        "image": "/cache/data/image/game/yeah-bunny/yeah-bunny-m186x186.webp"
+    },
+    {
+        "name": "A Pretty Odd Bunny",
+        "slug": "a-pretty-odd-bunny",
+        "image": "/cache/data/image/game/a-pretty-odd-bunny/a-pretty-odd-bunny-m186x186.webp"
+    },
+    {
+        "name": "Bunny Farm",
+        "slug": "bunny-farm",
+        "image": "/cache/data/image/game/bunny-farm/bunny-farm-m186x186.webp"
+    },
+    {
+        "name": "Yeah Bunny 2",
+        "slug": "yeah-bunny-2",
+        "image": "/cache/data/image/game/yeah-bunny-2/yeah-bunny-2-m186x186.webp"
+    },
+    {
+        "name": "Crazy Bunny",
+        "slug": "crazy-bunny",
+        "image": "/cache/data/image/game/crazy-bunny/crazy-bunny-m186x186.webp"
+    },
+    {
+        "name": "A Pretty Odd Bunny: Roast It!",
+        "slug": "a-pretty-odd-bunny-roast-it",
+        "image": "/cache/data/image/game/a-pretty-odd-bunny-roast-it/a-pretty-odd-bunny-roast-it-m186x186.webp"
+    },
+    {
+        "name": "Bunny Market",
+        "slug": "bunny-market",
+        "image": "/cache/data/image/game/bunny-market/bunny-market-m186x186.webp"
+    },
+    {
+        "name": "Animal Arena",
+        "slug": "animal-arena",
+        "image": "/cache/data/image/game/animal-arena/animal-arena-m186x186.webp"
     }
 ]
